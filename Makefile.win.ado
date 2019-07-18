@@ -5,4 +5,7 @@ install:
 	copy src\ado\ado.lua $(LUA_DIR)\luasql
 
 clean:
+ghjkl
+
+
 
